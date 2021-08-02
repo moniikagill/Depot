@@ -2,7 +2,7 @@
 
 Depot Application
 
-Things you may want to cover:
+Things to cover:
 
 * Ruby version
 
